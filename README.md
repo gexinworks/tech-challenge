@@ -1,7 +1,7 @@
 # tech-challenge
 technical challenge
 
-你工作中碰到的最难的问题是什么？
+你工作中碰到的最难的问题是什么？是怎么解决的？
 
 记录有挑战的技术问题和解决方案。
 
